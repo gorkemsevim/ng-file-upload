@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danialfarid/ng-file-upload.git"
+    "url": "https://github.com/gorkemsevim/ng-file-upload.git"
   },
   "keywords": [
     "angularjs",
@@ -36,7 +36,7 @@
   "author": "danial.farid@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danialfarid/ng-file-upload/issues"
+    "url": "https://github.com/gorkemsevim/ng-file-upload/issues"
   },
-  "homepage": "https://github.com/danialfarid/ng-file-upload"
+  "homepage": "https://github.com/gorkemsevim/ng-file-upload"
 }
